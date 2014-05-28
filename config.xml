@@ -13,8 +13,8 @@
 
 	<!-- FB Connect Section -->
 	<gap:plugin name="com.phonegap.plugins.facebookconnect">
-		<param name="APP_ID" value="XXXX" /> <!-- FB App ID-->
-		<param name="APP_NAME" value="XXXX" /> <!-- FB App Namespace-->
+		<param name="APP_ID" value="836462806381385" /> <!-- FB App ID-->
+		<param name="APP_NAME" value="simp­l­e­c­o­r­d­o­v­a­f­b­l­ogin" /> <!-- FB App Namespace-->
 	</gap:plugin>
 
     <author href="https://sub.example.com" email="someone@email.com">
